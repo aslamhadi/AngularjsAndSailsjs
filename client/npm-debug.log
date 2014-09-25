@@ -1,0 +1,24 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node',
+1 verbose cli   '/usr/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'karma-phantomjs-launcher',
+1 verbose cli   'karma-jasmine',
+1 verbose cli   'grunt-karma',
+1 verbose cli   '--save-dev' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.32
+4 verbose node symlink /usr/bin/node
+5 error Error: ENOENT, stat '/home/aslam/.node'
+6 error If you need help, you may report this *entire* log,
+6 error including the npm and node versions, at:
+6 error     <http://github.com/npm/npm/issues>
+7 error System Linux 3.13.0-35-generic
+8 error command "/usr/bin/node" "/usr/bin/npm" "install" "karma-phantomjs-launcher" "karma-jasmine" "grunt-karma" "--save-dev"
+9 error cwd /home/aslam/Documents/posApp/client
+10 error node -v v0.10.32
+11 error npm -v 1.4.28
+12 error path /home/aslam/.node
+13 error code ENOENT
+14 error errno 34
+15 verbose exit [ 34, true ]
