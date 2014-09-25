@@ -1,0 +1,5 @@
+- Change directory to client
+- Run 'npm install' and 'bower install'
+- Run 'grunt serve'
+- Change directory to server
+- Run 'sails lift'
